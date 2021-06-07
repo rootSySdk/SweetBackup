@@ -1,6 +1,6 @@
 # SweetBackup
 
-SweetBackup is a PowerShell version of [SeBackupPrivilege](https://github.com/giuliano108/SeBackupPrivilege), some commands are identically named. It was written with PSReflect for PInvoke to avoid any artifacts and its PowerShell v2 compliant.
+SweetBackup is a PowerShell version of [SeBackupPrivilege](https://github.com/giuliano108/SeBackupPrivilege), some commands are identically named. It was written with PSReflect (and [PSReflect-Functions](https://github.com/jaredcatkinson/PSReflect-Functions)) for PInvoke to avoid any artifacts and its PowerShell v2 compliant.
 
 Usage
 =====================
